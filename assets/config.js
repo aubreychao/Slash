@@ -1,9 +1,9 @@
 config = {
-    blogname: 'Slash',
+    blogname: 'MyBlog',
     sep: ' | ',
-    user: 'mastermay',
-    repo: 'Slash',
-    per_page: 1,
+    user: 'aubreychao',
+    repo: 'blogs',
+    per_page: 5,
     duoshuo_id: 'slash'
 }
 
