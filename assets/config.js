@@ -1,5 +1,5 @@
 config = {
-    blogname: 'Slash',
+    blogname: '我的博客',
     sep: ' | ',
     user: 'aubreychao',
     repo: 'blogs',
