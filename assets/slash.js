@@ -156,10 +156,10 @@ window.onload = function() {
 };
 
 function toggleDuoshuoComments(container, id) {
-    var el = document.createElement('div');
-    var url = window.location.href;
-    el.setAttribute('data-thread-key', id);
-    el.setAttribute('data-url', url);
-    DUOSHUO.EmbedThread(el);
-    jQuery(container).append(el);
+   // var el = document.createElement('div');
+    //var url = window.location.href;
+    ///el.setAttribute('data-thread-key', id);
+    //el.setAttribute('data-url', url);
+    //DUOSHUO.EmbedThread(el);
+    //jQuery(container).append(el);
 }
